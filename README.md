@@ -1,6 +1,7 @@
 # jaussen.github.io
-
-html, body {
+<!#DOCTYPE html>
+<html> 
+body{
 text-align: center;
 }
 p {text-align: left;}
